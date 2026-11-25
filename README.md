@@ -2,6 +2,7 @@
 Its very fun mod about tom henning
 
 there's the V1.0 which is the first version
+You can also download V1.1 which is a newer version
 
 ## description
 it is for the adventorous and bear lovers and about the man, the myth, the legend; tom henning
